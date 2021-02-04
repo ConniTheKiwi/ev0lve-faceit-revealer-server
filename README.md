@@ -3,9 +3,6 @@
 Will need these
 https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
-npm install http 
-npm install url 
-npm install request-promise 
-npm install request
+npm install http url request-promise request
 
 node ./api/0/index.js
